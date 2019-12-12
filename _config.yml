@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+
+
+title: Tara D. Alpert, Ph.D. Candidate
+email: tara.alpert@yale.edu
+logo: /assets/headshot.jpg
+description: 
+  Graduate student in the Neugebauer lab
+  Molecular Biophysics & Biochemistry
+  Yale University
+
+# show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+#google_analytics: [Your Google Analytics tracking ID]
+github_username:  tdalpert
+
