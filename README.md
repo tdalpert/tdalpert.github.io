@@ -9,8 +9,11 @@ Supervisor - [Dr. Karla Neugebauer](https://www.neugebauerlab.com/).
 ## Publications:  
 **Graduate work**  
 **Alpert T**, Straube K, Carrillo Oesterreich F, Neugebauer KM (2020) Single molecule nascent RNA sequencing reveals a role for Nab2p in 3’ end formation. *Cell Reports* (in preparation)  
+  
 **Alpert T**, Reimer KA, Straube K, Neugebauer KM (2019) Long read sequencing of nascent RNA from budding and fission yeasts. *Methods in Molecular Biology* (accepted)  
+  
 Herzel L, Ottoz DSM, **Alpert T**, Neugebauer KM (2017) Splicing and transcription touch base: co-transcriptional spliceosome assembly and function. *Nature Rev* 18, 637-650. [Link](https://www.nature.com/articles/nrm.2017.63)  
+  
 **Alpert T**, Herzel L, Neugebauer KM (2016) Perfect timing: splicing and transcription rates in living cells. *Wiley Interdiscip Rev RNA*. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/wrna.1401)  
   
 **Undergraduate work**  
