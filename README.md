@@ -18,7 +18,9 @@ Herzel L, Ottoz DSM, **Alpert T**, Neugebauer KM (2017) Splicing and transcripti
 **Alpert T**, Herzel L, Neugebauer KM (2016) Perfect timing: splicing and transcription rates in living cells. *Wiley Interdiscip Rev RNA*. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/wrna.1401)  
   
 **Undergraduate work**  
-* Lee SG, Kim YC, **Alpert TD**, Nagata A, Jez JM (2012) Structure and reaction mechanism of phosphoethanolamine methyltransferase from the malaria parasite *Plasmodium falciparum* - an antiparasitic drug target. *J Biol Chem* 287, 1426-1434. [Link](https://www.jbc.org/content/287/2/1426.short)  
-* Lee SG, **Alpert TD**, Jez JM (2012) Crystal structure of phosphoethanolamine methyltransferase from *Plasmodium falciparum* in complex with amodiaquine. *Bioorg Med Chem Lett* 22, 4990-4993. [Link](https://www.sciencedirect.com/science/article/pii/S0960894X12007834)  
+  
+Lee SG, Kim YC, **Alpert TD**, Nagata A, Jez JM (2012) Structure and reaction mechanism of phosphoethanolamine methyltransferase from the malaria parasite *Plasmodium falciparum* - an antiparasitic drug target. *J Biol Chem* 287, 1426-1434. [Link](https://www.jbc.org/content/287/2/1426.short)  
+  
+Lee SG, **Alpert TD**, Jez JM (2012) Crystal structure of phosphoethanolamine methyltransferase from *Plasmodium falciparum* in complex with amodiaquine. *Bioorg Med Chem Lett* 22, 4990-4993. [Link](https://www.sciencedirect.com/science/article/pii/S0960894X12007834)  
 
 
