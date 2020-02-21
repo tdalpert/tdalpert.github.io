@@ -8,7 +8,8 @@ Supervisor - [Dr. Karla Neugebauer](https://www.neugebauerlab.com/).
   
 ## Publications:  
 **Graduate work**  
-**Alpert T**, Straube K, Carrillo Oesterreich F, Neugebauer KM (2020) Single molecule nascent RNA sequencing reveals a role for Nab2p in 3’ end formation. *Cell Reports* (in preparation)  
+  
+**Alpert T**, Straube K, Carrillo Oesterreich F, Neugebauer KM (2020) Single molecule nascent RNA sequencing reveals a role for Nab2p in 3’ end formation. (in preparation)  
   
 **Alpert T**, Reimer KA, Straube K, Neugebauer KM (2019) Long read sequencing of nascent RNA from budding and fission yeasts. *Methods in Molecular Biology* (accepted)  
   
