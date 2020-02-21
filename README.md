@@ -7,7 +7,7 @@ Supervisor - [Dr. Karla Neugebauer](https://www.neugebauerlab.com/).
 [Curriculum Vitae](/assets/Tara Alpert CV 2020-02-18.pdf)  
   
 ## Publications:  
-**Graduate work \--**  
+**Graduate work  &mdash;**  
   
 **Alpert T**, Straube K, Carrillo Oesterreich F, Neugebauer KM (2020) Single molecule nascent RNA sequencing reveals a role for Nab2p in 3’ end formation. (in preparation)  
   
@@ -17,7 +17,7 @@ Herzel L, Ottoz DSM, **Alpert T**, Neugebauer KM (2017) Splicing and transcripti
   
 **Alpert T**, Herzel L, Neugebauer KM (2016) Perfect timing: splicing and transcription rates in living cells. *Wiley Interdiscip Rev RNA*. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/wrna.1401)  
   
-**Undergraduate work \--**  
+**Undergraduate work  &mdash;**  
   
 Lee SG, Kim YC, **Alpert TD**, Nagata A, Jez JM (2012) Structure and reaction mechanism of phosphoethanolamine methyltransferase from the malaria parasite *Plasmodium falciparum* - an antiparasitic drug target. *J Biol Chem* 287, 1426-1434. [Link](https://www.jbc.org/content/287/2/1426.short)  
   
