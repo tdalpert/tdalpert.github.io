@@ -8,9 +8,12 @@ Supervisor - [Dr. Karla Neugebauer](https://www.neugebauerlab.com/).
   
     
 ## Publications:  
+**More Recently  &mdash;**
+Fauver JR, Petrone ME, Hodcroft EB, Shioda K, Ehrlich HY, Watts AG, Vogels CBF, Brito AF, **Alpert T**, Muyombwe A, Razeq J, Downing R, Cheemarla NR, Wyllie AL, Kalinich CC, Ott IM, Quick J, Loman NJ, Neugebauer KM, Greninger AL, Jerome KR, Roychoudhury P, Xie H, Shrestha L, Huang M, Pitzer VE, Iwasaki A, Omer SB, Khan K, Bogoch II, Martinello RA, Foxman EF, Landry ML, Neher RA, Ko AI, Grubaugh ND (2020) Coast-to-Coast spread of SARS-CoV-2 during the early epidemic in the United States. Cell (accepted). [Link](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1?rss=1%22)
+
 **Graduate work  &mdash;**  
   
-**Alpert T**, Straube K, Carrillo Oesterreich F, Neugebauer KM (2020) Single molecule nascent RNA sequencing reveals a role for Nab2p in 3’ end formation. (in preparation)  
+**Alpert T**, Straube K, Carrillo Oesterreich F, Neugebauer KM (2020) Single molecule nascent RNA sequencing reveals a role for Nab2p in 3’ end formation. (submitted)  
   
 **Alpert T**, Reimer KA, Straube K, Neugebauer KM (2019) Long read sequencing of nascent RNA from budding and fission yeasts. *Methods in Molecular Biology* (accepted)  
   
