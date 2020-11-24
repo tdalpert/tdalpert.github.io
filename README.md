@@ -4,7 +4,7 @@
 [Curriculum Vitae](/assets/CV_AlpertTara.pdf)  
   
   
-Using genomic epidemiology to track the spread of SARS-CoV-2 through Connecticut
+Using genomic epidemiology to track the spread of SARS-CoV-2 through Connecticut  
 Supervisor - [Dr. Nathan D. Grubaugh](http://grubaughlab.com/).  
   
     
