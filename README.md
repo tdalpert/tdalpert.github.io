@@ -1,7 +1,7 @@
 # Tara Alpert, Ph.D.
 ## Yale University
 
-[Curriculum Vitae](/assets/Tara Alpert_CV_2020-11-23.pdf)  
+[Curriculum Vitae](/assets/Alpert_CV_2020-11-23.pdf)  
   
   
 Using genomic epidemiology to track the spread of SARS-CoV-2 through Connecticut  
