@@ -13,7 +13,7 @@ Supervisor - [Dr. Nathan D. Grubaugh](http://grubaughlab.com/).
 
 **Postdoctoral work  &mdash;**
   
-Brito A*, **Alpert T\***, Fauver J, Watkins A, Grubaugh ND (2020) SARS-CoV-2 outbreaks are a result of elevated social contacts: a case study of Danbury, CT. *Lancet microbe* (in preparation).
+Brito A\*, **Alpert T\***, Fauver J, Watkins A, Grubaugh ND (2020) SARS-CoV-2 outbreaks are a result of elevated social contacts: a case study of Danbury, CT. *Lancet microbe* (in preparation).
 
 Fauver JR, Petrone ME, Hodcroft EB, Shioda K, Ehrlich HY, Watts AG, Vogels CBF, Brito AF, **Alpert T**, Muyombwe A, Razeq J, Downing R, Cheemarla NR, Wyllie AL, Kalinich CC, Ott IM, Quick J, Loman NJ, Neugebauer KM, Greninger AL, Jerome KR, Roychoudhury P, Xie H, Shrestha L, Huang M, Pitzer VE, Iwasaki A, Omer SB, Khan K, Bogoch II, Martinello RA, Foxman EF, Landry ML, Neher RA, Ko AI, Grubaugh ND (2020) Coast-to-Coast spread of SARS-CoV-2 during the early epidemic in the United States. Cell (accepted). [Link](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1?rss=1%22)
 
