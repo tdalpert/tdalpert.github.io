@@ -2638,10 +2638,17 @@ input, select, textarea {
 			margin: 0;
 		}
 
-		#header .image.avatar {
+		/* #header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
+		} */
+
+
+		#header .image.avatar {
+			margin: 0 0 5em 0;
+			width: 20.25em;
 		}
+
 
 /* Footer */
 
