@@ -2099,7 +2099,7 @@ input, select, textarea {
 			}
 
 		.image img {
-			border-radius: 1em;
+			border-radius: 2em;
 			display: block;
 		}
 
