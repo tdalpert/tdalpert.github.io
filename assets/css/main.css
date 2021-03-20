@@ -99,7 +99,7 @@ input, select, textarea {
 
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
-		line-height: 1.25em;
+		line-height: 1.85em;
 		color: #888;
 		font-weight: 300;
 		font-size: 13pt;
@@ -110,7 +110,7 @@ input, select, textarea {
 		-webkit-transition: color .2s ease-in-out;
 		-ms-transition: color .2s ease-in-out;
 		transition: color .2s ease-in-out;
-		color: #25a4d9;
+		color: #43B3E0;
 		text-decoration: underline;
 	}
 
@@ -151,12 +151,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3e3e3e;
-		margin: 0.75em 0 0.75em 0;
-	}
-
-	h5 {
-		color: #25a4d9;
-		margin: 0.75em 0 0 0.75em 0;
+		margin: 0 0 0.75em 0;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1759,7 +1754,6 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
-			display:inline-block;
 		}
 
 	ol {
@@ -1919,7 +1913,7 @@ input, select, textarea {
 	.box {
 		background: #fff;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-		text-align: justify;
+		text-align: center;
 		padding: 2em;
 	}
 
@@ -1995,7 +1989,7 @@ input, select, textarea {
 	.wrapper {
 		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-		padding: 5em 0 5em 0;
+		padding: 8em 0 8em 0;
 		text-align: center;
 	}
 
@@ -2111,14 +2105,14 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 5em 0 5em 0;
+		padding: 10em 0 10em 0;
 		text-align: left;
 	}
 
 		#top .image {
 			border-radius: 100%;
 			width: 20em;
-			height: 10em;
+			height: 20em;
 			margin: 0;
 		}
 
@@ -2249,7 +2243,7 @@ input, select, textarea {
 		/* Basic */
 
 			body {
-				padding-top: 22px;
+				padding-top: 44px;
 			}
 
 			body, input, textarea, select {
